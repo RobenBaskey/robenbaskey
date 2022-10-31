@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robenbaskey" alt="robenbaskey" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommrece App(Chardike)**
+- 🔭 I’m currently working on **Health Project(Carekojo)**
 
-- 👯 I’m looking to collaborate on **Quiz App**
+- 👯 I’m looking to collaborate on **Ecommerce App(Santhal Bro)**
 
-- 🤝 I’m looking for help with **Notebook App**
+- 🤝 I’m looking for help with **Ecommerce App(Santhal Bro)**
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **baskeyjames10@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am Boring Person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
